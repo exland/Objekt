@@ -1,0 +1,8 @@
+Software design is used to specify  how a software should be implemented
+
+
+
+
+Aggregations represent a specific type of association
+
+

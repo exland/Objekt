@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Main
+Class-Path: Controler.jar EmpployeeModel.jar Main.jar Model.jar MyButton
+ .jar MyDialog.jar MyTextField.jar View.jar
+
